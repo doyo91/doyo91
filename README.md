@@ -39,7 +39,8 @@ Soy Samuel un desarrollador web atípico y multidisciplinar, que decidió cambia
 <img src="./assets/wordpress.svg" width="40px" alt="wordpress icon" title="wordpress" >&nbsp;
 <img src="./assets/php.svg" width="40px" alt="php" title="php icon" >&nbsp;
 <img src="./assets/laravel.svg" width="40px" alt="laravel icon" title="laravel" >&nbsp;
+<img src="./assets/next.svg" width="40px" alt="nextjs icon" title="nextJS" >&nbsp;
 <img src="./assets/typescript.svg" width="40px" alt="typescript icon" title="typescript" >&nbsp;
 <img src="./assets/adobe-xd.svg" width="40px" alt="adobe-xd icon" title="adobe-xd" >&nbsp;
 <img src="./assets/photoshop-cc.svg" width="40px" alt="photoshop icon" title="photoshop" >&nbsp;
-<img src="./assets/salesforce-2.svg" width="40px" alt="salesforce icon" title="salesforce" >&nbsp;
+
